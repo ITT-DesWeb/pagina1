@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding:0;
+}
+
+
+.aleft{
+float: left;
+
+width: 45%;
+height: 400px;
+margin-bottom: 1em;
+}
+.aright{
+    margin-bottom: 1em;
+    float: right;
+    background-color: darkorange;
+    width: 45%;
+    height: 400px;
+}
+input,select{
+    width: 250px;
+    height: 25px;
+    margin-top: 6px;
+    border-radius: 5px;
+    border: none;
+}
